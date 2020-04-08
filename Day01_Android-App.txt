@@ -1,0 +1,25 @@
+//Welcome to GanZDev App Development
+
+1.Introduction to Android :
+  Android is a complete set of software for mobile devices such as tablet computers, notebooks, smartphones, electronic book readers, set-top boxes etc.It contains a linux-based Operating System, middleware and key mobile application.
+
+2.what is Android :
+1) It is open-source.
+2) Anyone can customize the Android Platform.
+3) There are a lot of mobile applications that can be chosen by the consumer.
+4) It provides many interesting features like weather details, opening screen, live RSS (Really Simple Syndication) feeds etc.
+It provides support for messaging services(SMS and MMS), web browser, storage (SQLite), connectivity (GSM, CDMA, Blue Tooth, Wi-Fi etc.), media, handset layout etc
+
+3.History and Version:
+  The history and versions of android are interesting to know. The code names of android ranges from A to P currently, such as Aestro, Blender, Cupcake, Donut, Eclair, Froyo, Gingerbread, Honeycomb, Ice Cream Sandwitch, Jelly Bean, KitKat and Lollipop ,Marshmallow , Nougot , Oreo , Pie.
+  
+  4.Android Studio Architechture:
+  android architecture or Android software stack is categorized into five parts:
+1.linux kernel
+2.native libraries (middleware),
+3.Android Runtime
+4.Application Framework
+5.Applications
+
+5.Android Core Building Blocks:
+  An android component is simply a piece of code that has a well defined life cycle e.g. Activity, Receiver, Service etc.The core building blocks or fundamental components of android are activities, views, intents, services, content providers, fragments and AndroidManifest.xml.
