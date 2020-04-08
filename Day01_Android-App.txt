@@ -23,3 +23,6 @@ It provides support for messaging services(SMS and MMS), web browser, storage (S
 
 5.Android Core Building Blocks:
   An android component is simply a piece of code that has a well defined life cycle e.g. Activity, Receiver, Service etc.The core building blocks or fundamental components of android are activities, views, intents, services, content providers, fragments and AndroidManifest.xml.
+
+
+//  The remaining Day01 section post later...
